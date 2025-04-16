@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Maps/Blitz1.umap",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Maps/Test.umap",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Maps/BasicMap.umap",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Maps/MapTest.umap",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Characters/Sonic/Blueprints/SonicCharacterBlueprint.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Objects/WideSpring.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/StarterContent/Materials/M_Metal_Gold.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Objects/DashRamp.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Objects/AirSpring.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Objects/DashRingRainbowNOanim.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Objects/DashringRainbow.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Objects/TrickRamp.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Objects/BoxBoundry.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/lucas/OneDrive/Documents/GitHub/Perso/SonicInfinity/MugenEngine-UE5/Content/Maps/TestMap.umap"
+			]
+		}
+	]
+}
